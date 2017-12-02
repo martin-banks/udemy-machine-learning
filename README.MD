@@ -14,3 +14,16 @@ I have no affiliations to either Udemy or the crators of this course.
 
 This is a personal repo to track my own working files and notes through this course
 
+# Online resources
+
+### Data files
+https://www.superdatascience.com/machine-learning/
+
+### Install Python
+Installers:
+https://www.anaconda.com/download/#macos
+
+### Install R
+Installers:
+https://cran.r-project.org/
+
